@@ -1,0 +1,42 @@
+{
+    "name": "blosmtra/oauth-slack",
+    "description": "Sign in with Slack",
+    "keywords": [
+        "flarum", "slack", "oauth", "fof", "sso"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.3.1",
+        "fof/oauth": "^1.3"
+    },
+    "authors": [
+        {
+            "name": "Team Blomstra",
+            "email": "development@blomstra.net",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/blomstra/flarum-ext-oauth-slack",
+        "issues": "https://github.com/blomstra/flarum-ext-oauth-slack/issues",
+        "email": "helpdesk@blomstra.net"
+    },
+    "homepage": "https://blomstra.net",
+    "autoload": {
+        "psr-4": {
+            "Blomstra\\OAuthSlack\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Sign in with Slack",
+            "category": "feature",
+            "icon": {
+                "name": "fab fa-slack",
+                "backgroundColor": "#EBF1FD",
+                "color": "#3a98d0"
+            }
+        }
+    }
+}
