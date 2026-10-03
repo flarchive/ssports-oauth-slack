@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ssports/oauth-slack.** Not for installation: use [Packagist](https://packagist.org/packages/ssports/oauth-slack) or the [upstream repository](https://github.com/ssangyongsport/flarum-ext-oauth-slack).
 
-**0** versions archived · Latest: [`3`](https://github.com/flarchive/ssports-oauth-slack/tree/archive/v3) · License: `MIT` · Flarum: `^1.3.1`
+**3** versions archived · Latest: [`3`](https://github.com/flarchive/ssports-oauth-slack/tree/archive/v3) · License: `MIT` · Flarum: `^1.3.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1` | 2024-08-04 | `^1.3.1` | [Browse](https://github.com/flarchive/ssports-oauth-slack/tree/archive/v1) |
+| `2` | 2024-08-05 | `^1.3.1` | [Browse](https://github.com/flarchive/ssports-oauth-slack/tree/archive/v2) |
+| `3` | 2024-08-05 | `^1.3.1` | [Browse](https://github.com/flarchive/ssports-oauth-slack/tree/archive/v3) |
 
 Catalog entry: [packages/ssports-oauth-slack.json](https://github.com/flarchive/archive-index/blob/main/packages/ssports-oauth-slack.json)
 
